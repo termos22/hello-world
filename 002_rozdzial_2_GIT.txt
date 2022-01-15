@@ -14,6 +14,7 @@
   git status
   git init
   git add file1.txt file2.txt file3.txt
+  git add .
   git commit
   git commit -m "my commit message"
   git log
@@ -29,7 +30,11 @@
   
 -- GUI dla Git'ad
   https://www.gitkraken.com/
-
+  
+-- Edytory tekstu w zamian za Vim'a
+  https://code.visualstudio.com/
+  https://notepad-plus-plus.org/
+  
 -- repozytoria online GIT
   https://github.com/
   https://gitlab.com/
