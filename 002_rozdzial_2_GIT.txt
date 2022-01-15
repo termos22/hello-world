@@ -32,4 +32,5 @@
 
 -- repozytoria online GIT
   https://github.com/
-  
+  https://gitlab.com/
+  https://bitbucket.org/
