@@ -16,6 +16,7 @@
   git add file1.txt file2.txt file3.txt
   git commit
   git commit -m "my commit message"
+  git log
   
 -- przydatne linki
   https://git-scm.com/
@@ -27,8 +28,8 @@
   https://git-scm.com/video/quick-wins
   
 -- GUI dla Git'ad
-
+  https://www.gitkraken.com/
 
 -- repozytoria online GIT
-  
+  https://github.com/
   
