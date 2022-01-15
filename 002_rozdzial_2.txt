@@ -1,0 +1,17 @@
+#################################################################
+#                                                               #
+#       Rozdział 2 - GIT                                        #
+#                                                               #
+#################################################################
+
+
+-- komendy podstawowe Git'a
+  git --version
+  git log
+  git config user.name
+  git config --global user.name " Jakub Przybysz"
+  git config --global user.email termos22@gmail.com
+  git status
+  git init
+  git add file1.txt file2.txt file3.txt
+  
