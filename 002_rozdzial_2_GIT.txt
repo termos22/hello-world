@@ -26,6 +26,8 @@
   folder_z_konkretną_nazwą/
   *.log
   
+  https://gitignore.io/
+  
 -- przydatne linki
   https://git-scm.com/
   https://git-scm.com/docs
