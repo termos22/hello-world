@@ -31,6 +31,7 @@
   
 -- GUI dla Git'ad
   https://www.gitkraken.com/
+  https://www.git-tower.com/windows
   
 -- Edytory tekstu w zamian za Vim'a
   https://code.visualstudio.com/
