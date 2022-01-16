@@ -14,6 +14,7 @@
   git status
   git init
   git add file1.txt file2.txt file3.txt
+  git add foder/
   git add .
   git commit
   git commit -m "my commit message"
