@@ -21,6 +21,11 @@
   git commit --amend
   git log
   
+-- plik .gitignore  
+  .folder_ukryty
+  folder_z_konkretną_nazwą/
+  *.log
+  
 -- przydatne linki
   https://git-scm.com/
   https://git-scm.com/docs
