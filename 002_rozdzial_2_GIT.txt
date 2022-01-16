@@ -18,6 +18,7 @@
   git add .
   git commit
   git commit -m "my commit message"
+  git commit --amend
   git log
   
 -- przydatne linki
