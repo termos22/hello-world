@@ -23,6 +23,10 @@
   git log
   git branch
   git branch <new-branch-name>
+  git branch -d <branch-name>   = remove a branch
+  git branch -D <branch-name>   = force remove a branch
+  git branch -m <branch-name>   = rename/move a branch
+  git branch -M <branch-name>   = force rename/move a branch
   git switch <branch-name>
   git switch -c <new-branch-name>
   git checkout <branch-name>
