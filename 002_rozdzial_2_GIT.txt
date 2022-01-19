@@ -18,12 +18,15 @@
   git add .
   git commit
   git commit -m "my commit message"
+  git commit -a -m "my commit message"
   git commit --amend
   git log
   git branch
   git branch <new-branch-name>
   git switch <branch-name>
-  
+  git switch -c <new-branch-name>
+  git checkout <branch-name>
+  git checkout -b <branch-name>
   
 -- plik .gitignore  
   .folder_ukryty
