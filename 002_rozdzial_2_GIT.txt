@@ -20,6 +20,10 @@
   git commit -m "my commit message"
   git commit --amend
   git log
+  git branch
+  git branch <new-branch-name>
+  git switch <branch-name>
+  
   
 -- plik .gitignore  
   .folder_ukryty
