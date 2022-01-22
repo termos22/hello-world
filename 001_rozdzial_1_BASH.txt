@@ -15,7 +15,7 @@
   pwd
   cd
   cd folder
-  cd..
+  cd ..
   touch purple.txt
   touch purple.txt green.js yellow.pdf
   mkdir
