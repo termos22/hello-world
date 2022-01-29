@@ -32,6 +32,7 @@
   git checkout <branch-name>
   git checkout -b <branch-name>
   git merge nazwa_gałęzi
+  git diff
   
   
 -- plik .gitignore  
