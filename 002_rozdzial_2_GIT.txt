@@ -31,7 +31,7 @@
   git switch -c <new-branch-name>
   git checkout <branch-name>
   git checkout -b <branch-name>
-  git merge
+  git merge nazwa_gałęzi
   
   
 -- plik .gitignore  
