@@ -33,6 +33,14 @@
   git checkout -b <branch-name>
   git merge nazwa_gałęzi
   git diff
+  git diff HEAD
+  git diff --staged
+  git diff --cached
+  git diff HEAD [filename]
+  git diff --staged [filename]
+  git diff branch1..branch2
+  git diff commit1..commit2
+  
   
   
 -- plik .gitignore  
