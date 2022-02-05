@@ -40,7 +40,10 @@
   git diff --staged [filename]
   git diff branch1..branch2
   git diff commit1..commit2
-  
+  git stash
+  git stash save
+  git stash pop
+    
   
   
 -- plik .gitignore  
