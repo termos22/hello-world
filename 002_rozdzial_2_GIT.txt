@@ -29,20 +29,33 @@
   git branch -M <branch-name>   = force rename/move a branch
   git switch <branch-name>
   git switch -c <new-branch-name>
+  git switch -
   git checkout <branch-name>
   git checkout -b <branch-name>
+  git checkout HEAD~1
+  git checkout HEAD <filename>
+  git checkout --file
+  git restore <filename>
+  git restore --source HEAD~1 <filename>
+  git restore --staged <filename>
+  git reset <commit_hash>
   git merge nazwa_gałęzi
   git diff
   git diff HEAD
   git diff --staged
   git diff --cached
-  git diff HEAD [filename]
-  git diff --staged [filename]
+  git diff HEAD <filename>
+  git diff --staged <filename>
   git diff branch1..branch2
   git diff commit1..commit2
   git stash
   git stash save
   git stash pop
+  git stash apply
+  git stash list
+  git stash apply stash@{2}
+  git stash drop stash@{2}
+  git stash clear
     
   
   
