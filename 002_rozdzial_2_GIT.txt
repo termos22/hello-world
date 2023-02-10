@@ -14,7 +14,7 @@
   git status
   git init
   git add file1.txt file2.txt file3.txt
-  git add foder/
+  git add folder/
   git add .
   git commit
   git commit -m "my commit message"
@@ -39,6 +39,8 @@
   git restore --source HEAD~1 <filename>
   git restore --staged <filename>
   git reset <commit_hash>
+  git reset --hard HEAD~1
+  git revert
   git merge nazwa_gałęzi
   git diff
   git diff HEAD
